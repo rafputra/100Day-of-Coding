@@ -1,2 +1,2 @@
 # 100Day-of-Coding
-Update of each progress at my jouney in becoming a software enginer
+Update of each progress at my journey in becoming a software enginer
