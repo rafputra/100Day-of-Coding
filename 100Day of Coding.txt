@@ -1,0 +1,5 @@
+Progress 100 Day of Coding
+
+Day 1 : Github
+        Repo, hash, commit, branch, merge, pull, push, remote
+        Create account github, commit repository, create branches, merge branches, push/pull request, merge conflict and resolve
