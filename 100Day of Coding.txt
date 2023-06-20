@@ -1,5 +1,14 @@
 Progress 100 Day of Coding
 
-Day 1 : Github
-        Repo, hash, commit, branch, merge, pull, push, remote
-        Create account github, commit repository, create branches, merge branches, push/pull request, merge conflict and resolve
+Day 1 : 
+        Github (vid #1-3)
+                Repo, hash, commit, branch, merge, pull, push, remote
+                Create account github, commit repository, create branches, merge branches, push/pull request, merge conflict and resolve
+Day 2 : 
+        Github (vid #4)
+                Fork, forking
+                Fork repo dari akun lain ke akun kita, nambah & revisi repo lalu dibalikin ke repo asli (pull request)
+        Javascript dasar (vid #19-22)
+                While : kondisi awal, kondisi + aksi, increased/decreased, For : sama kek while cuma dibaris yang sama, if else : kondisi, aksi
+                Buat pengulangan while, for, pengondisian if else, else if
+        
