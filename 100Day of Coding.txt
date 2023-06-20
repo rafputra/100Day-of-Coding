@@ -10,5 +10,5 @@ Day 2 :
                 Fork repo dari akun lain ke akun kita, nambah & revisi repo lalu dibalikin ke repo asli (pull request)
         Javascript dasar (vid #19-22)
                 While : kondisi awal, kondisi + aksi, increased/decreased, For : sama kek while cuma dibaris yang sama, if else : kondisi, aksi
-                Buat pengulangan while, for, pengondisian if else, else if
+                Buat pengulangan while, for, pengondisian if else, else if.
         
