@@ -11,4 +11,10 @@ Day 2 :
         Javascript dasar (vid #19-22)
                 While : kondisi awal, kondisi + aksi, increased/decreased, For : sama kek while cuma dibaris yang sama, if else : kondisi, aksi
                 Buat pengulangan while, for, pengondisian if else, else if.
+Day 3 :
+        Git (vid #5)
+                Git, add, commit, bash
+                Install software git ke pc, konek file repo biasa ke git, git add & git commit
+        Tailwind - Web Portfolio
+                Add "About Section Start-End", about me dan sosial media, belom nambahin style css
         
