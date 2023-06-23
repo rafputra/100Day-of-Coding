@@ -22,3 +22,6 @@ Day 4 :
                 Studi kasus pengondisian if + else if + else, pengondisian Switch, operator dan(&&), atau(||),
                 Prompt itu tipe data string (''), == buat integer (angka mutlak), === buat string ('')
                 Buat game suit jawa
+Day 5 :
+        React (vid #1)
+                Apa itu react, hubungannya dengan DOM Javascript, bedanya Imperative dengan Declarative (React) programming
