@@ -17,4 +17,8 @@ Day 3 :
                 Install software git ke pc, konek file repo biasa ke git, git add & git commit
         Tailwind - Web Portfolio
                 Add "About Section Start-End", about me dan sosial media, belom nambahin style css
-        
+Day 4 :
+        Javascript dasar (vid #23-26)
+                Studi kasus pengondisian if + else if + else, pengondisian Switch, operator dan(&&), atau(||),
+                Prompt itu tipe data string (''), == buat integer (angka mutlak), === buat string ('')
+                Buat game suit jawa
