@@ -25,3 +25,6 @@ Day 4 :
 Day 5 :
         React (vid #1)
                 Apa itu react, hubungannya dengan DOM Javascript, bedanya Imperative dengan Declarative (React) programming
+Day 6 :
+        Tailwind - Web Portfolio
+                Finishing "About Sectiom", Tambahin icon sosial media dengan SVG di website (simple icon.org), hover
